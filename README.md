@@ -1,1 +1,1 @@
-# 20273003_yjh_androidAPP
+# SEWC 캡스톤디자인 2주차 수업
