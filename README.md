@@ -3,4 +3,4 @@
 ## 2주차
 <img width="" height="" src="./png/raccoon.jpeg"></img>
   - 과제
-  <img width="400" height="600" src="./png/2주차_과제.png"></img>
+  <img width="400" height="800" src="./png/2주차_과제.png"></img>
