@@ -9,4 +9,4 @@
 ## 3주차
   - 과제
   
-  <img width="700" height="600" src="./png/3주차_과제.png"></img>
+  <img width="700" height="650" src="./png/3주차_과제.png"></img>
