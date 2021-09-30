@@ -1,7 +1,7 @@
 # 2021-2 캡스톤 디자인 수업
 
 ## 2주차
-<img width="" height="" src="./png/raccoon.jpeg"></img>
+<img width="" height="" src="./png/raccoon.jpeg"></img>Cancel changes
   - 과제
   
   <img width="400" height="800" src="./png/2주차_과제.png"></img>
@@ -13,5 +13,7 @@
 
 ## 4주차
   - 각자의 체형, 스타일에 맞게 코디해주는 어플
+  
     키, 몸무게, 체형, 원하는 스타일 등을 설정하면 상황별로 다양한 코디를 보여준다.
+    
     코디앱과 온라인쇼핑몰을 합쳐 코디된 상품을 바로 구매할 수 있다.
