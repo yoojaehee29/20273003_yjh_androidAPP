@@ -27,4 +27,4 @@
 ## 6주차
   - 과제
 
-<img width="1200" height="500" src="./png/6주차_과제.png"></img>
+<img width="800" height="200" src="./png/6주차_과제.png"></img>
