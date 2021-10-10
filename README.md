@@ -23,3 +23,8 @@
 
 <img width="500" height="500" src="./png/5주차_과제.png"></img>
 
+
+## 6주차
+  - 과제
+
+<img width="1000" height="500" src="./png/6주차_과제.png"></img>
