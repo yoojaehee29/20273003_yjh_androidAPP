@@ -28,3 +28,10 @@
   - 과제
 
 <img width="900" height="500" src="./png/6주차_과제.png"></img>
+
+
+## 7주차
+  - 과제
+
+
+<img width="400" height="800" src="./png/7주차_과제.png"></img>
