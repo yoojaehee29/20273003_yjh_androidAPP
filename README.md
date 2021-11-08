@@ -40,4 +40,4 @@
   -과제
   
  
- <img width="700" height="750" src="./png/10주차_과제.png"></img>
+ <img width="700" height="730" src="./png/10주차_과제.png"></img>
